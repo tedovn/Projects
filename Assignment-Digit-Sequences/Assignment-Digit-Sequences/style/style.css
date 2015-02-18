@@ -1,0 +1,14 @@
+#wrapper {
+	width: 500px;
+	margin: 0 auto;
+
+}
+
+#display-input-text {
+	margin-top: 10px;
+	border: 1px solid;
+	width: 300px;
+	height: 200px;
+	overflow-y: scroll;
+	word-wrap: break-word; 
+}
